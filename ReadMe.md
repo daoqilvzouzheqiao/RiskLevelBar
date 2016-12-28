@@ -1,1 +1,1 @@
-![](https://github.com/daoqilvzouzheqiao/RiskLevelBar/blob/master/%E8%87%AA%E5%AE%9A%E4%B9%89view.gif)
+![动态演示图](https://github.com/daoqilvzouzheqiao/RiskLevelBar/blob/master/%E6%BC%94%E7%A4%BA%E5%9B%BE.gif)
