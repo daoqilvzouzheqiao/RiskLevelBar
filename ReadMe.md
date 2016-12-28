@@ -1,0 +1,1 @@
+![](https://github.com/daoqilvzouzheqiao/RiskLevelBar/blob/master/%E8%87%AA%E5%AE%9A%E4%B9%89view.gif)
