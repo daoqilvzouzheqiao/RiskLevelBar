@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RiskLevelBar">
+        <attr name="barHeight" format="dimension"/>
+        <attr name="leftAndRightMargin" format="dimension"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ed0a1a</color>
+
+    <color name="start">#FFDADA</color>
+    <color name="end">#FF6867</color>
+    <color name="gray">#a19d9d</color>
+
+    <color name="circle01">#FFD3D3</color>
+    <color name="circle02">#FFC9C9</color>
+    <color name="circle03">#FFBDBD</color>
+    <color name="circle04">#FFB3B2</color>
+    <color name="circle05">#FFA7A7</color>
+    <color name="circle06">#FF9D9C</color>
+    <color name="circle07">#FF9190</color>
+    <color name="circle08">#FF8786</color>
+    <color name="circle09">#FF7B7B</color>
+    <color name="circle10">#FF706F</color>
+</resources>
